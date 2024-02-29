@@ -72,10 +72,16 @@ table {
   background-color: #03b1c8;
 }
 
+
 ul {  
   padding-top: 100px;
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-
+li{
+  padding: 20px;
+  border: black;
+}
 
